@@ -1,5 +1,5 @@
 
-from problems.p01_01 import is_unique_1, is_unique_2
+from problems.ch01.p01 import is_unique_1, is_unique_2
 
 def test_both_implementations_are_correct():
     s1 = 'qwerty'

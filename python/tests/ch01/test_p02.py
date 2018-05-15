@@ -1,5 +1,5 @@
 
-from problems.p01_02 import check_permutation_1, check_permutation_2
+from problems.ch01.p02 import check_permutation_1, check_permutation_2
 
 def test_both_implementations_are_correct():
     s1 = 'qwerty'

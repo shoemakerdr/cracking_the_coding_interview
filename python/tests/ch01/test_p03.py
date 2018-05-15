@@ -1,5 +1,5 @@
 
-from problems.p01_03 import urlify_1
+from problems.ch01.p03 import urlify_1
 
 def test_implementation_is_correct():
     s1 = 'Mr John Smith      '

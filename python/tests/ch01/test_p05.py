@@ -1,5 +1,5 @@
 
-from problems.p01_05 import one_away_1
+from problems.ch01.p05 import one_away_1
 
 def test_implementation_is_correct():
     s1 = 'pale'

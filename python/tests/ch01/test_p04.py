@@ -1,5 +1,5 @@
 
-from problems.p01_04 import palindrome_permutation_1
+from problems.ch01.p04 import palindrome_permutation_1
 
 def test_implementation_is_correct():
     s1 = 'Tact Coa'
