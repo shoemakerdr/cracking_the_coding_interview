@@ -15,3 +15,7 @@ def test_implementation_is_correct():
     l6 = LinkedList(2)
     assert list(remove_dups_1(l5)) == list(l6)
     assert list(remove_dups_2(l5)) == list(l6)
+    l7 = LinkedList(2)
+    l8 = LinkedList(2)
+    assert list(remove_dups_1(l7)) == list(l8)
+    assert list(remove_dups_2(l7)) == list(l8)
